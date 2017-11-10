@@ -1,0 +1,19 @@
+{
+  "name": "temperature-converter",
+  "version": "0.1.0",
+  "description": "Convert Celsius to Fahrenheit and viceversa",
+  "main": "app/converter.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "elyager",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "axios": "^0.11.0",
+    "express": "^4.13.4"
+  }
+}
