@@ -4,7 +4,8 @@
   "description": "Convert Celsius to Fahrenheit and viceversa",
   "main": "app/converter.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node app/server.js"
   },
   "author": "elyager",
   "license": "MIT",
